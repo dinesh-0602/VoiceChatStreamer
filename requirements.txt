@@ -5,6 +5,5 @@ youtube_dl
 ffmpeg-python
 asyncio
 pytgcalls==3.0.0.dev13
-git+https://github.com/pyrogram/pyrogram@master
-pyrogram
+git+https://github.com/pyrogram/pyrogram
 requests
