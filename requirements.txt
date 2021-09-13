@@ -1,9 +1,9 @@
-TgCrypto
-pafy
-youtube-search-python
+tgcrypto
 youtube_dl
-ffmpeg-python
+pafy
+pytube
+youtube-search-python
 asyncio
-pytgcalls==3.0.0.dev13
+pytgcalls==3.0.0.dev19
 git+https://github.com/pyrogram/pyrogram@master
 requests
